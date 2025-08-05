@@ -1,0 +1,22 @@
+From b2173b61f9a1328c6688890c8900ecf8a3cec2ad Mon Sep 17 00:00:00 2001
+From: ruthvireddyk <ruthvireddy05@gmail.com>
+Date: Tue, 5 Aug 2025 12:22:39 +0530
+Subject: [PATCH 2/3] COllab 1 added conflicting line
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 1215073..51e7f0c 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+ # Week 3 Lab
+-hello
+\ No newline at end of file
++hello hllo again from colab1
+\ No newline at end of file
+-- 
+2.46.0.windows.1
+
